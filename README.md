@@ -18,5 +18,5 @@ password: rootroot
 ```
 localhost:8000/docs - swagger backend
 localhost:3000 - frontend ui
-localhost:5432 - pgadmin
+localhost:5050 - pgadmin
 ```
