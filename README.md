@@ -9,7 +9,7 @@ docker-compose up --build -d
 
 ## Тестовый пользователь
 
-```json
+```
 username: root
 password: rootroot
 ```
